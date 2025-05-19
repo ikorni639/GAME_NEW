@@ -1,0 +1,6 @@
+[submodule "external/glf"]
+	path = external/glf
+	url = https://github.com/glfw/glfw
+[submodule "build/external/glfw"]
+	path = build/external/glfw
+	url = https://github.com/glfw/glfw

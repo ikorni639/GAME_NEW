@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/ivan/Desktop/\u0434\u043b\u044f_\u043f\u0440\u0438\u043a\u043b\u0430\u0434\u0456\u0432/hui/hui1/hui1/build/cmake_install.cmake",
+		"/Users/ivan/Desktop/\u0434\u043b\u044f_\u043f\u0440\u0438\u043a\u043b\u0430\u0434\u0456\u0432/hui/hui1/hui1/build/external/glfw/cmake_install.cmake",
+		"/Users/ivan/Desktop/\u0434\u043b\u044f_\u043f\u0440\u0438\u043a\u043b\u0430\u0434\u0456\u0432/hui/hui1/hui1/build/external/glfw/src/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
